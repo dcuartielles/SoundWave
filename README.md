@@ -6,3 +6,5 @@ A modification of a library with the same name by Adafruit Industries that allow
 The idea behind this library is having a minimal setup to play sound from an SD card attached to the SPI pins on an Arduino board. Please note that there are limitations on the kind of WAV files you can use. For a better explanation on how to create the right type of sound files, visit: http://cuartielles.com/verkstad/edu/Courses1BitSound/PlayWAVsound
 
 (c) 2013 Arduino Verkstad, D. Cuartielles, X. Yang, C. Leivas
+
+Of course this code is licensed under GPLV3, just read the license file and chill out
